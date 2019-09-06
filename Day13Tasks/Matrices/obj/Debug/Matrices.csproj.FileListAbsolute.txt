@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\bin\Debug\Matrices.dll
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\bin\Debug\Matrices.pdb
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\obj\Debug\Matrices.dll
+C:\Users\Tanya\source\repos\Day13Tasks\Matrices\obj\Debug\Matrices.pdb

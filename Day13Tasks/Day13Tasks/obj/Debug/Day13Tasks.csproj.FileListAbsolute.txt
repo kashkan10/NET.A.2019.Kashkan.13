@@ -1,0 +1,7 @@
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\obj\Debug\Day13Tasks.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\obj\Debug\Day13Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\bin\Debug\Day13Tasks.dll.config
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\bin\Debug\Day13Tasks.dll
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\bin\Debug\Day13Tasks.pdb
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\obj\Debug\Day13Tasks.dll
+C:\Users\Tanya\source\repos\Day13Tasks\Day13Tasks\obj\Debug\Day13Tasks.pdb

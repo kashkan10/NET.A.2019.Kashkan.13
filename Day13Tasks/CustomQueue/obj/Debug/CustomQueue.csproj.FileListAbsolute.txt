@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.exe.config
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.exe
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.pdb
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.exe
+C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.pdb
