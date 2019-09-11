@@ -4,8 +4,6 @@ namespace Matrices
 {
     public class SymmetricalMatrix<T> : SquareMatrix<T>
     {
-        private T[][] array;
-
         /// <summary>
         /// Constructor
         /// </summary>

@@ -31,7 +31,7 @@ namespace Tests
                 new int[] { 0, 0, 6 }
             };
 
-            SquareMatrix<int> actual = Summator<int>.Add(diagMatrix, symmMatrix);
+            SquareMatrix<int> actual = diagMatrix + symmMatrix;
 
             Assert.AreEqual(actual.Array, expected);
         }
@@ -53,7 +53,7 @@ namespace Tests
             };
 
             DiagonalMatrix<int> diagMatrix = new DiagonalMatrix<int>(arr);
-            SquareMatrix<int> symmMatrix = new SquareMatrix<int>(arr1);
+            SquareMatrix<int> sqMatrix = new SquareMatrix<int>(arr1);
 
             int[][] expected = new int[][]
             {
@@ -62,7 +62,7 @@ namespace Tests
                 new int[] { 1, 3, 11 }
             };
 
-            SquareMatrix<int> actual = Summator<int>.Add(diagMatrix, symmMatrix);
+            SquareMatrix<int> actual = diagMatrix + sqMatrix;
 
             Assert.AreEqual(actual.Array, expected);
         }
@@ -82,7 +82,7 @@ namespace Tests
                 new int[] { 1, 3 },
             };
 
-            SquareMatrix<int> diagMatrix = new SquareMatrix<int>(arr);
+            SquareMatrix<int> sqMatrix = new SquareMatrix<int>(arr);
             SymmetricalMatrix<int> symmMatrix = new SymmetricalMatrix<int>(arr1);
 
             int[][] expected = new int[][]
@@ -92,7 +92,7 @@ namespace Tests
                 new int[] { 0, 0, 6 }
             };
 
-            SquareMatrix<int> actual = Summator<int>.Add(diagMatrix, symmMatrix);
+            SquareMatrix<int> actual = sqMatrix + symmMatrix;
 
             Assert.AreEqual(actual.Array, expected);
         }

@@ -4,3 +4,10 @@ C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.pdb
 C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.csproj.CoreCompileInputs.cache
 C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.exe
 C:\Users\Tanya\source\repos\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.exe.config
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\bin\Debug\CustomQueue.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomQueue\obj\Debug\CustomQueue.pdb

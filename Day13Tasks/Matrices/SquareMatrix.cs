@@ -2,9 +2,9 @@
 
 namespace Matrices
 {
-    public class SquareMatrix<T> : IMatrix<T>
+    public class SquareMatrix<T>
     {
-        private T[][] array;
+        protected T[][] array;
 
         /// <summary>
         /// Constructor
@@ -55,6 +55,39 @@ namespace Matrices
             OnChanged(this, new NewMatrixEvantArgs(i, j));
         }
 
+        /// <summary>
+        /// Override of +
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <returns>result of sum</returns>
+        public static SquareMatrix<T> operator +(SquareMatrix<T> a, SquareMatrix<T> b)
+        {
+            dynamic aclone = a.Array.Clone();
+            dynamic bclone = b.Array.Clone();
+
+            if (aclone.Length < bclone.Length)
+            {
+                var res = bclone;
+                bclone = aclone;
+                aclone = res;
+            }
+
+            for (int i = 0; i < bclone.Length; i++)
+            {
+                for (int j = 0; j < bclone[i].Length; j++)
+                {
+                    aclone[i][j] = aclone[i][j] + bclone[i][j];
+                }
+            }
+
+            return new SquareMatrix<T>(aclone);
+        }
+
+        /// <summary>
+        /// Override of ToString()
+        /// </summary>
+        /// <returns>string representation</returns>
         public override string ToString()
         {
             string result = string.Empty;

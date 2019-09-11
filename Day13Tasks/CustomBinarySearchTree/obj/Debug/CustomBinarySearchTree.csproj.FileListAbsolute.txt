@@ -5,3 +5,10 @@ C:\Users\Tanya\source\repos\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBi
 C:\Users\Tanya\source\repos\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.csproj.CoreCompileInputs.cache
 C:\Users\Tanya\source\repos\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.exe
 C:\Users\Tanya\source\repos\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\bin\Debug\CustomBinarySearchTree.exe.config
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\bin\Debug\CustomBinarySearchTree.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\bin\Debug\CustomBinarySearchTree.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.13\Day13Tasks\CustomBinarySearchTree\obj\Debug\CustomBinarySearchTree.pdb

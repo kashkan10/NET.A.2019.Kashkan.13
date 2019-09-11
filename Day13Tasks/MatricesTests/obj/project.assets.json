@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanya\\source\\repos\\Day13Tasks\\MatricesTests\\MatricesTests.csproj",
+      "projectUniqueName": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.13\\Day13Tasks\\MatricesTests\\MatricesTests.csproj",
       "projectName": "MatricesTests",
-      "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day13Tasks\\MatricesTests\\MatricesTests.csproj",
+      "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.13\\Day13Tasks\\MatricesTests\\MatricesTests.csproj",
       "packagesPath": "C:\\Users\\Tanya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanya\\source\\repos\\Day13Tasks\\MatricesTests\\obj\\",
+      "outputPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.13\\Day13Tasks\\MatricesTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5798,8 +5798,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Tanya\\source\\repos\\Day13Tasks\\Matrices\\Matrices.csproj": {
-              "projectPath": "C:\\Users\\Tanya\\source\\repos\\Day13Tasks\\Matrices\\Matrices.csproj"
+            "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.13\\Day13Tasks\\Matrices\\Matrices.csproj": {
+              "projectPath": "C:\\Users\\Tanya\\Documents\\GitHub\\NET.A.2019.Kashkan.13\\Day13Tasks\\Matrices\\Matrices.csproj"
             }
           }
         }
